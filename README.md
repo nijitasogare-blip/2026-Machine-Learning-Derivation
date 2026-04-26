@@ -2,11 +2,11 @@
 Notes &amp; Codes for basic Machine Learning Algorithms.
 
 ## 当前进度
-- [] 机器学习基础(数学推导)
-- [] 机器学习基础(代码实现)
-- [] CNN训练MNIST
-- [] Transformer原理
-- [] Pytorch实现Transformer
+- [O] 机器学习基础(数学推导)
+- [X] 机器学习基础(代码实现)
+- [X] CNN训练MNIST
+- [X] Transformer原理
+- [X] Pytorch实现Transformer
 ## 目录结构
 - `ML codes/` ML算法的代码实现
 - `notes/` 算法笔记
