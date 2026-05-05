@@ -2,9 +2,9 @@
 Notes &amp; Codes for basic Machine Learning Algorithms.
 
 ## 当前进度
-- [-] 机器学习基础(数学推导)
-- [-] 机器学习基础(代码实现)
-- [X] CNN训练MNIST
+- [Y] 机器学习基础(数学推导)
+- [Y] 机器学习基础(代码实现)
+- [Y] CNN训练MNIST
 - [X] Transformer原理
 - [X] Pytorch实现Transformer
 ## 目录结构
